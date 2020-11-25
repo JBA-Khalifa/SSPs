@@ -1,4 +1,6 @@
-# Substrate Uniform Resource Identifier
+# Substrate Uniform Resource Identifier 
+
+# (Example of SSP from Polkadot's PSP sample)
 
 * **PSP Number:** 2
 * **Authors:** @xlc
