@@ -1,6 +1,8 @@
 # Fungible Asset Wallet Metadata
 
-* **PSP Number:** 3
+(Example of an SSP from Polkadot's PSP sample)
+
+* **SSP Number:** 1
 * **Authors:** @xlc
 * **Status:** Draft
 * **Created:** 2019-10-08

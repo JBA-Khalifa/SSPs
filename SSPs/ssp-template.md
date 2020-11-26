@@ -1,6 +1,6 @@
 # Title
 
-* **PSP Number:** [To be assigned (=number of the initial PR to the PSPs repo)]
+* **SSP Number:** [To be assigned (=number of the initial PR to the SSPs repo)]
 * **Authors:** [Name and Email or GitHub Username]
 * **Status:** [Draft, Call for Feedback, Accepted, Integrated]
 * **Created:** [yyyy-mm-dd]
@@ -24,4 +24,4 @@ If applicable, please include a list of potential test cases to validate an impl
 
 ## Copyright
 
-Each PSP must be labeled as placed in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+Each SSP must be labeled as placed in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
